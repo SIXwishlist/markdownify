@@ -1,17 +1,23 @@
 {
-    "name": "realestateconz/markdownify",
+    "name": "whsuite/markdownify",
     "type": "library",
     "description": "Markdownify is a HTML to Markdown converter written in PHP",
     "keywords": ["Markdownify", "Markdown", "HTML", "converter"],
-    "homepage": "https://github.com/realestateconz/markdownify",
+    "homepage": "https://github.com/whsuite/markdownify",
     "license": "MIT",
-    "authors": [{
-        "name": "milianw",
-        "homepage": "http://sourceforge.net/projects/markdownify/"
-    }],
+    "authors": [
+        {
+            "name": "milianw",
+            "homepage": "http://sourceforge.net/projects/markdownify/"
+        },
+        {
+            "name": "WHSuite",
+            "email": "info@whsuite.com"
+        }
+    ],
 
     "require": {
-        "php": ">=5.2.4"
+        "php": ">=5.3.2"
     },
 
     "autoload": {
